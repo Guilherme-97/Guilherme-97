@@ -1,4 +1,4 @@
-## Olá! Me chamo Guilherme!
+## Guilherme Rodrigues
 Atualmente trabalho como supervisor na Rd Saúde. 
 Cursando Engenharia de Software pela Unicesumar. Técnico em desenvolvimento de sistemas pelo Senai(PR).
 
